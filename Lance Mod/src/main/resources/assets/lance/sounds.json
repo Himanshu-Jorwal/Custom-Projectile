@@ -1,0 +1,10 @@
+{
+  "lance_roar": {
+    "sounds": [
+      {
+        "name": "lance:lance_roar",
+        "stream": false
+      }
+    ]
+  }
+}
