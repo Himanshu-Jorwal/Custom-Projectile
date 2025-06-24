@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "lance",
+	"version": "1.0.0",
+	"name": "Lance",
+	"description": "A Godkiller Weapon - Lance Of Longinus!",
+	"authors": ["Deva Path"],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/himanshu-jorwal"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/lance/NGE.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["net.deva.lance.Lance"],
+		"fabric-datagen": ["net.deva.lance.LanceDataGenerator"],
+		"client": ["net.deva.lance.LanceClient"]
+	},
+	"mixins": ["lance.mixins.json"],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
