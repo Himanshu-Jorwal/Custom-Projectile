@@ -20,6 +20,7 @@ Mod only available for Version 1.21.4 as of now.
 |Unresolved Errors|
 1) The Lance Entity disappears the second it hits any living mob/entity even though no discard logic is added in the OnEntityHit function.
 2) The Lance Entity when thrown sticks to blocks/ground vertically unlike a normal trident ingame. 
+
 Potential Solutions : Not Found
 These errors won't be worked upon for now atleast.
 
