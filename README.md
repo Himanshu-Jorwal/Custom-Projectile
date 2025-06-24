@@ -5,7 +5,7 @@ Mod only available for Version 1.21.4 as of now.
 
 |THE EASY WAY|
 1) Dowload [Fabric Loader](https://fabricmc.net/use/installer/) for Minecraft 1.21.4
-2) Copy Paste the Fabric API and TrackFPS jar files from 'Mod Files' to 'appdata/roaming/minecraft/mods'
+2) Copy Paste the Fabric API and Lance jar files from 'Mod Files' to 'appdata/roaming/minecraft/mods'
 3) Run Minecraft 1.21.4
 
 |THE LONG WAY|
@@ -13,7 +13,7 @@ Mod only available for Version 1.21.4 as of now.
 2) Make desirable changes
 3) Run ./gradlew build in terminal
 4) Dowload [Fabric Loader](https://fabricmc.net/use/installer/) for Minecraft 1.21.4
-5) Copy The TrackFPS.jar file from 'build/libs' folder and paste it to 'appdata/roaming/minecraft/mods' 
+5) Copy The Lance.jar file from 'build/libs' folder and paste it to 'appdata/roaming/minecraft/mods' 
 6) Copy The FabricAPI jar file from 'Mod Files' folder and paste it to 'appdata/roaming/minecraft/mods'
 7) Run Minecraft 1.21.4
 
@@ -22,5 +22,6 @@ Mod only available for Version 1.21.4 as of now.
 2) The Lance Entity when thrown sticks to blocks/ground vertically unlike a normal trident ingame. 
 
 Potential Solutions : Not Found
+
 These errors won't be worked upon for now atleast.
 
