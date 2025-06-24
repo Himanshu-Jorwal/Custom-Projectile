@@ -23,5 +23,5 @@ Mod only available for Version 1.21.4 as of now.
 
 Potential Solutions : Not Found
 
-These errors won't be worked upon for now atleast.
+These errors won't be worked upon, for now atleast.
 
